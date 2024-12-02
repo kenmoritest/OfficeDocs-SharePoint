@@ -69,7 +69,7 @@ To increase SharePoint storage capacity, purchase additional storage in one-giga
 SharePoint storage quota for the tenant starts at 1 TB and each additional SharePoint license purchased adds 10 GB. For details, see [SharePoint limits - Service Descriptions | Microsoft Learn.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)   
 
 1. What happens if my tenant exceeds the SharePoint storage quota?  
-When the SharePoint storage quota is exceeded, you might need to purchase additional storage or manage existing storage more efficiently through deletion or archival. In addition, classic site creation is blocked.  
+When the SharePoint storage quota is exceeded, you might need to purchase additional storage or manage existing storage more efficiently through deletion or archival. In addition, any further opertation increasing storage utilization could be blocked.  
 
 1. How does version trimming work with the preservation hold library?  
 Version trimming doesn't impact the files in the preservation hold library since the original copies of the files are preserved. For more on how retention settings work in SharePoint, see [Learn about retention for SharePoint and OneDrive | Microsoft Learn.](/purview/retention-policies-sharepoint)  
